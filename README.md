@@ -25,4 +25,4 @@ CIFAR10数据集在文件夹data/cifar10下，其中
 Github Repository链接：
 - https://github.com/Dear-Cry/QspjGqlh.git
 Google Drive链接：
-- https://drive.google.com/drive/folders/1ycJgqkhqbJm7vHAVdqFr2 IwjticjD25?usp=sharing
+- https://drive.google.com/drive/folders/1ycJgqkhqbJm7vHAVdqFr2_IwjticjD25?usp=sharing
